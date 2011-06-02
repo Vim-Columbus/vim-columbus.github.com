@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>{{ page.title }}</title>
+    <link rel=stylesheet href=vim.css>
   </head>
   <body>
-    <header>
-      <h1>{{ title }}</h1>
-    </header>
-    <section>{{ content }}</section>
-    <footer></footer>
+    <section id=container>
+      <header>
+        <h1>{{ page.title }}</h1>
+      </header>
+      <section>{{ content }}</section>
+      <footer></footer>
+    </section>
   </body>
 </html>
