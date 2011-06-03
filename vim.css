@@ -67,6 +67,7 @@ body {
   color: #bbb;
   overflow: hidden;
   padding-bottom: 1em;
+  line-height: 1em;
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);
   -moz-box-shadow: 0 0 10px rgba(0,0,0,0.3);
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
@@ -77,14 +78,24 @@ body {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
 }
-
 #container section {
   min-height: 25em;
 }
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #bb8a00;
+}
+
 header {
-  background: #bbb;
-  background-image: -moz-linear-gradient(#cfcfcf, #a8a8a8);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(#cfcfcf), color-stop(#a8a8a8));
+  background: #bcbcbc;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#cfcfcf)), to(#a8a8a8));
+  background-image: -webkit-linear-gradient(top, #cfcfcf, #a8a8a8);
+  background-image:    -moz-linear-gradient(top, #cfcfcf, #a8a8a8);
+  background-image:     -ms-linear-gradient(top, #cfcfcf, #a8a8a8);
+  background-image:      -o-linear-gradient(top, #cfcfcf, #a8a8a8);
+  background-image:         linear-gradient(top, #cfcfcf, #a8a8a8);
   color: black;
   text-align: center;
   font-family: Helvetica, Arial, sans-serif;
@@ -92,6 +103,7 @@ header {
   border-bottom: solid 1px #515151;
 }
 header h1 {
+  color: black;
   background-image: url(windowbuttons.png);
   background-position: 10px 50%;
   background-repeat: no-repeat;
@@ -99,6 +111,7 @@ header h1 {
   font-size: 14px;
   text-shadow: rgba(255,255,255,0.3) 0 1px;
   padding: 3px;
+  margin: 0;
 }
 footer {
   background: #003643;
