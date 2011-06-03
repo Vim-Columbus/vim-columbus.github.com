@@ -87,16 +87,18 @@ header {
   background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(#cfcfcf), color-stop(#a8a8a8));
   color: black;
   text-align: center;
-  padding: 3px;
   font-family: Helvetica, Arial, sans-serif;
   border-top: solid 1px #e2e2e2;
   border-bottom: solid 1px #515151;
 }
 header h1 {
   background-image: url(windowbuttons.png);
-  background-position: 7px 50%;
+  background-position: 10px 50%;
   background-repeat: no-repeat;
   font-weight: normal;
+  font-size: 14px;
+  text-shadow: rgba(255,255,255,0.3) 0 1px;
+  padding: 3px;
 }
 footer {
   background: #003643;
