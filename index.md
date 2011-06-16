@@ -9,7 +9,9 @@ share your Vim knowledge and pick up a few tricks from others.
 ## Schedule
 
 The current plan is to meet the second Thursday of every month. The first
-meeting will be an exception, being on the third Thursday (2011-06-16).
+meeting will be an exception, being on the third Thursday (2011-06-16). There
+is a [Meetup.com group](http://www.meetup.com/Vim-Columbus/) where you can
+RSVP.
 
 ## Location
 
