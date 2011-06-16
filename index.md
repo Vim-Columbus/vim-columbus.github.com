@@ -25,4 +25,5 @@ then break into small groups to do [VimGolf](http://vimgolf.com). Bring a
 laptop if you like.
 
 We'll probably get a mailing list started soon, but for now you can direct any
-questions to [@neall](https://twitter.com/neall) on Twitter.
+questions to [@neall](https://twitter.com/neall) or
+[@twymer](https://twitter.com/twymer) on Twitter.
