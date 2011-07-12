@@ -28,9 +28,13 @@ highway.)
 ## Format
 
 We will start out with one or more talks about a feature or plugin for Vim,
-maybe have a few people share some of their favorite Vim features, then break
+maybe have a few people share some of their favorite Vim features, maybe break
 into small groups to do [VimGolf](http://vimgolf.com). Bring a laptop if you
 like.
+
+This month Tyler Wymer will have an in-depth look at
+[rails.vim](http://rails.vim.tpope.net/) and Matthew Boston will talk about
+[Vundle](https://github.com/gmarik/vundle). Additional talks welcome!
 
 We'll probably get a mailing list started soon, but for now you can direct any
 questions to [@neall](https://twitter.com/neall) or
