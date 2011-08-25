@@ -11,7 +11,7 @@ some relevant information.
 ## Schedule
 
 Vim Columbus meets the second Thursday of every month. The next meeting is
-2011-08-11 at 6:30pm. There is a
+2011-09-08 at 6:30pm. There is a
 [Vim-Columbus Meetup group](http://www.meetup.com/Vim-Columbus/) where you can
 RSVP.
 
