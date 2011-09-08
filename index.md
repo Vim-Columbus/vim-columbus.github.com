@@ -11,9 +11,15 @@ some relevant information.
 ## Schedule
 
 Vim Columbus meets the second Thursday of every month. The next meeting is
-2011-09-08 at 6:30pm. There is a
-[Vim-Columbus Meetup group](http://www.meetup.com/Vim-Columbus/) where you can
-RSVP.
+2011-09-08 at 6:30pm.
+
+There is a [vim-columbus group on Google
+Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
+updates, and you can follow [@vimcbus](https://twitter.com/vimcbus) on
+Twitter.
+
+There is also a [Vim-Columbus Meetup
+group](http://www.meetup.com/Vim-Columbus/).
 
 ## Location
 
@@ -32,7 +38,3 @@ We will start out with one or more talks about a feature or plugin for Vim,
 maybe have a few people share some of their favorite Vim features, maybe break
 into small groups to do [VimGolf](http://vimgolf.com). Bring a laptop if you
 like.
-
-We'll probably get a mailing list started soon, but for now you can direct any
-questions to [@neall](https://twitter.com/neall) or
-[@twymer](https://twitter.com/twymer) on Twitter.
