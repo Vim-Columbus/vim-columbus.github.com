@@ -11,7 +11,7 @@ some relevant information.
 ## Schedule
 
 Vim Columbus meets the second Thursday of every month. The next meeting is
-2011-09-08 at 6:30pm.
+2011-10-13 at 6:30pm.
 
 There is a [vim-columbus group on Google
 Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
