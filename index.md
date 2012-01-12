@@ -10,8 +10,9 @@ some relevant information.
 
 ## Schedule
 
-Vim Columbus meets the second Thursday of every month. The next meeting is
-2012-01-12 at 6:30pm.
+Vim Columbus meets the second Thursday of every month. <strike>The next meeting is
+2012-01-12 at 6:30pm.</strike> *January's meeting has been canceled due to
+interference with CodeMash. See you all in February.*
 
 There is a [vim-columbus group on Google
 Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
