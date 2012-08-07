@@ -53,6 +53,8 @@ a:hover { color: #036; }
 
 pre, code, kbd, samp { font-family: monospace, sans-serif; }
 
+strong { font-weight: bold; }
+
 body {
   background: #888;
   color: #ddd;
