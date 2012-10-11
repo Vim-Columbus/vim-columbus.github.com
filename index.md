@@ -12,9 +12,9 @@ some relevant information.
 
 Vim Columbus meets the second Thursday of every month.
 <strike>The next meeting is 2012-12-11 at 6:30pm.</strike> Update: Vim
-Columbus this month is canceled in favor of the [GitHub
-Drinkup](https://github.com/blog/1285-columbus-drinkup-2). Never fear, though
-- there will be Vim users there!
+Columbus this month is canceled in favor of the
+[GitHub Drinkup](https://github.com/blog/1285-columbus-drinkup-2).
+Never fear, though - there will be Vim users there!
 
 There is a [vim-columbus group on Google
 Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
