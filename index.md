@@ -11,7 +11,10 @@ some relevant information.
 ## Schedule
 
 Vim Columbus meets the second Thursday of every month.
-The next meeting is 2012-09-13 at 6:30pm.
+<strike>The next meeting is 2012-12-11 at 6:30pm.</strike> Update: Vim
+Columbus this month is canceled in favor of the [GitHub
+Drinkup](https://github.com/blog/1285-columbus-drinkup-2). Never fear, though
+- there will be Vim users there!
 
 There is a [vim-columbus group on Google
 Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
@@ -21,6 +24,7 @@ Twitter.
 ## Location
 
 Our monthly meetings are held at [2Checkout.com](http://www.2checkout.com/)
+**except this month when we will be at the GitHub drinkup - see above.**
 
 Google Maps link:<br>
 [1785 O'Brien Road<br>Columbus, OH 43228](http://maps.google.com/maps/ms?source=s_q&hl=en&geocode=&aq=&ie=UTF8&hq=&hnear=1785+O%27Brien+Rd,+Columbus,+Ohio+43228&t=h&msa=0&msid=210175771168447127014.0004a3f81d50a68475a1f&ll=39.988798,-83.119957&spn=0.002713,0.005681&z=18)
