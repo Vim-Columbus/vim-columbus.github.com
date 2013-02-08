@@ -10,24 +10,13 @@ some relevant information.
 
 ## Schedule
 
-Vim Columbus meets the second Thursday of every month. The next meeting is
-2012-12-13 at 6:30pm.
-
-There is a [vim-columbus group on Google
-Groups](http://groups.google.com/group/vim-columbus) you can subscribe to for
-updates, and you can follow [@vimcbus](https://twitter.com/vimcbus) on
-Twitter.
+This month I will not be hosting Vim Columbus because I will be out of town.
+Vim Columbus normally meets the second Thursday of every month. See you in
+March!
 
 ## Location
 
-Our monthly meetings are held at [2Checkout.com](http://www.2checkout.com/)
-
-Google Maps link:<br>
-[1785 O'Brien Road<br>Columbus, OH 43228](http://maps.google.com/maps/ms?source=s_q&hl=en&geocode=&aq=&ie=UTF8&hq=&hnear=1785+O%27Brien+Rd,+Columbus,+Ohio+43228&t=h&msa=0&msid=210175771168447127014.0004a3f81d50a68475a1f&ll=39.988798,-83.119957&spn=0.002713,0.005681&z=18)
-
-Please enter through the door on the south side of the building next to the
-purple "2CO Innovation" sign. (The south side is not the side that faces the
-highway.)
+New location coming soon.
 
 ## Format
 
